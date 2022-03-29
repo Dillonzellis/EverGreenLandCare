@@ -21,3 +21,10 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# DZ
+.vscode/
+settings.json
+imports/lib/
+public/fonts/
+dist/
